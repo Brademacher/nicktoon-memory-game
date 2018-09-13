@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Helga",
+        "image": "https://i.imgur.com/qackkY2.png"
+    },
+    {
+        "id": 2,
+        "name": "Eliza",
+        "image": "https://i.imgur.com/qoBwlQT.png"
+    },
+    {
+        "id": 3,
+        "name": "Skeeter",
+        "image": "https://i.imgur.com/LH9F5mN.png"
+    },
+    {
+        "id": 4,
+        "name": "Ren",
+        "image": "https://i.imgur.com/tVtl9bF.png"
+    },
+    {
+        "id": 5,
+        "name": "Heffre",
+        "image": "https://i.imgur.com/taUMBEI.png"
+    },
+    {
+        "id": 6,
+        "name": "Tommie",
+        "image": "https://i.imgur.com/J2tzp9F.png"
+    },
+    {
+        "id": 7,
+        "name": "Ren",
+        "image": "https://i.imgur.com/vVRxPZE.png"
+    },
+    {
+        "id": 8,
+        "name": "Rocko",
+        "image": "https://i.imgur.com/RMmUXyu.png"
+    },
+    {
+        "id": 9,
+        "name": "Chuckie",
+        "image": "https://i.imgur.com/UaXqnn5.png"
+    },
+    {
+        "id": 10,
+        "name": "Patty",
+        "image": "https://i.imgur.com/xt5fcC1.png"
+    },
+    {
+        "id": 11,
+        "name": "Ickis",
+        "image": "https://i.imgur.com/NMcHiVv.png"
+    },
+    {
+        "id": 12,
+        "name": "Otto",
+        "image": "https://i.imgur.com/c03vVEG.png"
+    },
+    {
+        "id": 13,
+        "name": "Doug",
+        "image": "https://i.imgur.com/yR2TSai.gif"
+    },
+    {
+        "id": 14,
+        "name": "Arnold",
+        "image": "https://i.imgur.com/thBi2Yo.png"
+    },
+    {
+        "id": 15,
+        "name": "Gerald",
+        "image": "https://i.imgur.com/dDnBDEM.png"
+    },
+    {
+        "id": 16,
+        "name": "Susie",
+        "image": "https://i.imgur.com/CwnOhKJ.png"
+    },
+    {
+        "id": 17,
+        "name": "Zim",
+        "image": "https://i.imgur.com/uAgThWb.png"
+    },
+    {
+        "id": 18,
+        "name": "Donnie",
+        "image": "https://i.imgur.com/vdCJGRB.png"
+    },
+    {
+        "id": 19,
+        "name": "Angelica",
+        "image": "https://i.imgur.com/VDRdLqr.png"
+    },
+    {
+        "id": 20,
+        "name": "Krumm",
+        "image": "https://i.imgur.com/G2yTfkS.png"
+    }
+]
